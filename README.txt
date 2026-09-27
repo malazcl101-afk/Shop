@@ -10,3 +10,4 @@ HarborNestDigital
 7. On phones, an HTTPS host is needed for Add to Home Screen; the seller may provide a link. The downloaded files open directly on a computer, without internet.
 
 Currency selection changes symbols, not saved amounts. This is an organization tool, not tax or accounting advice. No bank connection, online orders, shared accounts or automatic reminders. Contact HarborNestDigital via your Etsy order for help.
+
